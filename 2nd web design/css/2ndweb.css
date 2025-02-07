@@ -1,0 +1,58 @@
+ body{
+     background-image:url("image/train.JPG");
+     background-repeat:no-repeat;
+     /* background-position:bottom;   */
+}
+/*a{
+ list-style-type:none;
+ text-decoration:none;
+ color:rgb(0, 0, 0);
+ font-size:17px;
+ 
+}
+
+  ul{
+   margin-left: 15vw;
+   margin-right:25vw;
+    list-style-type:none;
+    padding:10px;
+   display: flex;
+   justify-content: space-between;
+   font-variant:small-caps;
+  }
+  #class1 a{
+    padding: 5px;
+    text-decoration:none;
+    color:rgb(229, 213, 213);
+   background-color:rgb(2, 2, 91)
+   }
+
+   #class6 a{
+      color:red;
+   }
+
+   #class7 a{
+      padding:5px;
+       background-color:rgba(99, 85, 85, 0.479);
+   }
+
+    p{
+      font-size:12px;
+      position:fixed;
+      right:17rem;
+      top:10px;
+   }
+
+   ol{
+   padding:-10px;
+   list-style-type:none;
+   text-decoration:none;
+   display:flex;
+   justify-content:space-between;
+   font-variant:small-caps;
+   margin-left:200px;
+   margin-right:160px;
+  }
+ */
+
+
